@@ -44,7 +44,7 @@ to deploy to :
 - Angular
 - Visual code studio
 
-- https://github.com/HannahChege/Github-Search
+- https://github.com/halkano/Github-Search
 
 
 - This project is under an MIT [license](LICENSE)
