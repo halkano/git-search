@@ -8,3 +8,6 @@ img{
     height:45px;
     width:45px;
 }
+.nav-item active{
+  margin-right: 20px;
+}

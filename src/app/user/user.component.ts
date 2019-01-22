@@ -17,6 +17,7 @@ export class UserComponent implements OnInit {
 
 constructor(public us:  UsersService) {
   // repositories:us.user$.repo$;
+  //calling a function and when it returns it becomes observables
 
 }
 findUser($name) {
