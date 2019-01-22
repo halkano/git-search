@@ -42,7 +42,7 @@ to deploy to :
 - Bootstrap
 - NPM
 - Angular
-- Visual code studio
+- atom
 
 - https://github.com/halkano/Github-Search
 
