@@ -10,7 +10,7 @@
 
   <div class="container" *ngIf="users">
   <div class="card">
-    <div  style="text-align:center; color:maroon">{{us.user$.name}} <small>({{us.user$.login}})</small></div>
+    <div  style="text-align:center; color:maroon background-color:green">{{us.user$.name}} <small>({{us.user$.login}})</small></div>
 
     <div class="row">
       <div class="card-body">
@@ -29,7 +29,7 @@
               <span class="badge badge-secondary" style="margin:6px;" >{{us.user$.followers}} Followers</span>
               <span class="badge badge-primary" style="margin:6px;">:{{us.user$.following}} Follows</span>
               <span class="badge badge-success" style="margin:6px;">{{us.user$.public_repos}} Public Repos</span>
-            
+
 
             </h5></li>
 
