@@ -11,6 +11,7 @@ import { UserComponent } from './user/user.component';
 import {UsersService   }   from './users.service';
 import { HeaderComponent } from './header/header.component';
 import { LandingpageComponent } from './landingpage/landingpage.component';
+import { DatePipe } from './date.pipe';
 
 @NgModule({
   declarations: [
@@ -18,6 +19,7 @@ import { LandingpageComponent } from './landingpage/landingpage.component';
     UserComponent,
     HeaderComponent,
     LandingpageComponent,
+    DatePipe,
 
   ],
   imports: [
